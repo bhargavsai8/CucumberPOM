@@ -1,0 +1,12 @@
+29/12/2017 21:32:00 devPinoyLogger INFO Initiating the Class INFO
+29/12/2017 21:32:13 devPinoyLogger |START TEST CASE|START TEST CASE|START TEST CASE|
+29/12/2017 21:32:13 devPinoyLogger Start of Test Case: Log into Application
+29/12/2017 21:32:13 devPinoyLogger |START TEST CASE|START TEST CASE|START TEST CASE|
+29/12/2017 21:32:31 devPinoyLogger |END TEST CASE|END TEST CASE|END TEST CASE|
+29/12/2017 21:32:31 devPinoyLogger End of Test Case: Log into Application
+29/12/2017 21:32:31 devPinoyLogger |END TEST CASE|END TEST CASE|END TEST CASE|
+29/12/2017 21:32:37 devPinoyLogger INFO Clicked on Calendar link INFO
+29/12/2017 21:32:40 devPinoyLogger INFO Clicked on New Event link INFO
+29/12/2017 21:32:52 devPinoyLogger INFO Clicked on New Event link INFO
+29/12/2017 21:33:04 devPinoyLogger INFO Clicked on New Event link INFO
+29/12/2017 21:33:12 devPinoyLogger INFO Closing the Browser INFO
